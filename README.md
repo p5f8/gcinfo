@@ -3,6 +3,7 @@
 ## Source
 
 https://www.youtube.com/watch?v=we_enrM7TSY  
+http://www.entpnerd.com/2018/08/05/notes-from-gil-tenes-talk-understanding-java-garbage-collection-and-what-you-can-do-about-it/
 
 ## Mechanisms of GC
 
