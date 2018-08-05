@@ -11,7 +11,12 @@
    - https://www.oracle.com/technetwork/articles/java/g1gc-1984535.html
    - https://dzone.com/articles/g1gcgarbage-first-garbage-collector-tuning-flags-1
    - https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/
-   - https://developer.amd.com/4-easy-ways-to-do-java-garbage-collection-tuning/
+   - https://developer.amd.com/4-easy-ways-to-do-java-garbage-collection-tuning/  
+   - http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html  
+   
+   - JDK 8
+      - https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/introduction.html#sthref3
+      
    
 ## Quotes
 
